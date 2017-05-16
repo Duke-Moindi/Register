@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

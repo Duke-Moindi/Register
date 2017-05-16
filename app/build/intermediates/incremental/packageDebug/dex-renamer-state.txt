@@ -1,0 +1,7 @@
+#Tue May 02 01:36:04 EAT 2017
+base.0=/home/moindi/maramoja/RegStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_922d393dfbf8a42d85e5dcfd78b28c08eef58284
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/moindi/maramoja/RegStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ad84f758a97e6a6ac54cf27b17dd52becfbeff81/classes.dex
+base.1=/home/moindi/maramoja/RegStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ad84f758a97e6a6ac54cf27b17dd52becfbeff81
+file.0=/home/moindi/maramoja/RegStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_922d393dfbf8a42d85e5dcfd78b28c08eef58284/classes.dex

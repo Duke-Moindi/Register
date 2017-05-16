@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/moindi/.android/build-cache/a14b107feb81181669f89632edf0a680b76c2a82/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/moindi/.android/build-cache/d2ed2d1d378bc5e0185298ed074d855cde2343f5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/moindi/.android/build-cache/1b8e9d19d41ec6c6d18a17c4ddf083f35cbbd658/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/moindi/.android/build-cache/d5fc8e79d891afc01616d5d199d40cb4991afe8f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/moindi/.android/build-cache/c78c5b392a2e6034746cfe7fcfd355d206c7fba5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/moindi/.android/build-cache/0c0331d6188f67bd3dad697ecbbdc1aee8724aa4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/moindi/.android/build-cache/85a2f4337feb3eae610b6d245b2a7f1810cfca60/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/moindi/.android/build-cache/4f9bd9eb90e45290284d173ac71f81abd0296d96/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/moindi/.android/build-cache/14d67726199efc1d9723b8a1ce151f6b3efded82/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.moindi.regstorage.MainActivity
+ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /home/moindi/.android/build-cache/a14b107feb81181669f89632edf0a680b76c2a82/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/moindi/.android/build-cache/d2ed2d1d378bc5e0185298ed074d855cde2343f5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/moindi/.android/build-cache/1b8e9d19d41ec6c6d18a17c4ddf083f35cbbd658/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/moindi/.android/build-cache/d5fc8e79d891afc01616d5d199d40cb4991afe8f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/moindi/.android/build-cache/c78c5b392a2e6034746cfe7fcfd355d206c7fba5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/moindi/.android/build-cache/0c0331d6188f67bd3dad697ecbbdc1aee8724aa4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/moindi/.android/build-cache/85a2f4337feb3eae610b6d245b2a7f1810cfca60/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] /home/moindi/.android/build-cache/4f9bd9eb90e45290284d173ac71f81abd0296d96/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/moindi/.android/build-cache/14d67726199efc1d9723b8a1ce151f6b3efded82/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/moindi/maramoja/RegStorage/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/moindi/.android/build-cache/a14b107feb81181669f89632edf0a680b76c2a82/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/moindi/.android/build-cache/d2ed2d1d378bc5e0185298ed074d855cde2343f5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/moindi/.android/build-cache/1b8e9d19d41ec6c6d18a17c4ddf083f35cbbd658/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/moindi/.android/build-cache/d5fc8e79d891afc01616d5d199d40cb4991afe8f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/moindi/.android/build-cache/c78c5b392a2e6034746cfe7fcfd355d206c7fba5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/moindi/.android/build-cache/0c0331d6188f67bd3dad697ecbbdc1aee8724aa4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/moindi/.android/build-cache/85a2f4337feb3eae610b6d245b2a7f1810cfca60/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/moindi/.android/build-cache/4f9bd9eb90e45290284d173ac71f81abd0296d96/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/AndroidManifest.xml:26:9-47

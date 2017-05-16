@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/moindi/maramoja/RegStorage/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/moindi/.android/build-cache/f00d93afa656598f3cd02be3f173ad21a994c5f2/output/res/layout-v11/notification_media_action.xml"
+    }
+]
